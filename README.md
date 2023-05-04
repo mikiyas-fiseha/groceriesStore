@@ -16,7 +16,7 @@
   <a href="https://codewithsadee.github.io/organica/"><strong>➥ Live Demo</strong></a>
 
 </div>
-
+<!-- 
 <br />
 
 ### Demo Screeshots
@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/organica.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee). -->
 
 ### License
 
