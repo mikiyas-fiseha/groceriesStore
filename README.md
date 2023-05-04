@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/organica)
+  <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/organica)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/organica?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/organica?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/sgCSEk1XsCo?style=social)](https://youtu.be/sgCSEk1XsCo)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/sgCSEk1XsCo?style=social)](https://youtu.be/sgCSEk1XsCo) -->
 
   <br />
   <br />
@@ -19,23 +19,23 @@
 <!-- 
 <br />
 
-### Demo Screeshots
+<!-- ### Demo Screeshots -->
 
-![Organica Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<!-- ![Organica Desktop Demo](./readme-images/desktop.png "Desktop Demo") -->
 
-### Prerequisites
+<!-- ### Prerequisites -->
 
-Before you begin, ensure you have met the following requirements:
+<!-- Before you begin, ensure you have met the following requirements: -->
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+<!-- * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system. -->
 
-### Run Locally
+<!-- ### Run Locally
 
 To run **Organica** locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macOS: -->
 
-```bash
+<!-- ```bash
 sudo git clone https://github.com/codewithsadee/organica.git
 ```
 
@@ -45,9 +45,9 @@ Windows:
 git clone https://github.com/codewithsadee/organica.git
 ```
 
-### Contact
+### Contact -->
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee). -->
+<!-- If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee). --> -->
 
 ### License
 
